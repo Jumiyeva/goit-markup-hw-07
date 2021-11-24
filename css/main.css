@@ -1,0 +1,19 @@
+:root {
+  --primary-text-color: #757575;
+  --primary-title-color: #212121;
+  --primary-black-color: #000000;
+  --primary-white-color: #FFFFFF;
+  --accent-color: #2196F3;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+/*# sourceMappingURL=main.css.map */
