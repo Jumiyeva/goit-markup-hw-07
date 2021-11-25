@@ -32,8 +32,10 @@
     display: block;
     width: 18px;
     height: 18px;
+
+    &:hover{
+        fill: var(--accent-color);
+    }
 }
 
-.modal-close-icon:hover{
-    fill: var(--accent-color);
-}
+
